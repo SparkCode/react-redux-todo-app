@@ -1,0 +1,2 @@
+export const COMPLETED = "COMPLETED_TODO";
+export const UNCOMPLETED = "UNCOMPLETED_TODO";
