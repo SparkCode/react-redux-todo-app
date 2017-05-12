@@ -1,6 +1,6 @@
-import {addRecord} from "../../actions/actions";
 import {connect} from "react-redux";
-import TodoCreator from "../presentational-сomponent/TodoCreator";
+import TodoCreator from "../сomponents/TodoCreator";
+import {addRecord} from "../actions/actions";
 
 const mapDispatchToProps = (dispatch) => {
     return {

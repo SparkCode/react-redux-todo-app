@@ -1,6 +1,6 @@
 import {connect} from "react-redux";
-import TodoList from "../presentational-сomponent/TodoList";
-import {changeRecordStatus} from "../../actions/actions";
+import TodoList from "../сomponents/TodoList";
+import {changeRecordStatus} from "../actions/actions";
 
 let mapStateToProps = (state, ownProps) => {
     console.log(state);

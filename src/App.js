@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import {TodoApp} from "./components/presentational-сomponent/TodoApp";
+import {TodoApp} from "./сomponents/TodoApp";
 import 'bootstrap/dist/css/bootstrap.css';
 
 class App extends Component {
